@@ -37,7 +37,7 @@ A [gentle introduction][tutorial] to Typst is available in our documentation.
 However, if you want to see the power of Typst encapsulated in one image, here
 it is:
 <p align="center">
- <img alt="Example" width="900" src="https://user-images.githubusercontent.com/38260698/226794868-90911832-433a-4575-be88-42d582589403.png"/>
+ <img alt="Example" width="900" src="https://user-images.githubusercontent.com/111201305/227424766-21413d98-4e2f-40b2-bba6-625b92ae8672.png"/>
 </p>
 
 
@@ -81,8 +81,8 @@ Let's dissect what's going on:
   _recurrence relation_ $F_n = F_(n-1) + F_(n-2)$.
   It can also be expressed in closed form:
 
-  $ F_n = floor(1 / sqrt(5) phi.alt^n), quad
-    phi.alt = (1 + sqrt(5)) / 2 $
+  $ F_n = floor(1 / sqrt(5) phi.alt^n + 1/2),
+    quad phi.alt = (1 + sqrt(5)) / 2 $
 
   #let count = 10
   #let nums = range(1, count + 1)

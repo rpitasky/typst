@@ -1,7 +1,7 @@
 ---
 name: Web App Bug Report
 about: For issues specifically regarding https://typst.app
-title: ''
+title: '[WEB]'
 labels: bug, web app
 assignees: ''
 

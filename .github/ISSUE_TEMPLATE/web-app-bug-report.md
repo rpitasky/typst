@@ -14,4 +14,4 @@ assignees: ''
 
 ## Browser and OS information
 
-<!— Make sure to search the issues for similar bug reports before submitting- it is more productive to add your thoughts there —>
+<!-- Make sure to search the issues for similar bug reports before submitting- it is more productive to add your thoughts there -->

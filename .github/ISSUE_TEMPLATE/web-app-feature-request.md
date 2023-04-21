@@ -3,6 +3,7 @@ name: Web App Feature Request
 about: For feature requests specifically for https://typst.app
 title: "[WEB] "
 labels: enhancement, web app
+assignees: ''
 
 ---
 
